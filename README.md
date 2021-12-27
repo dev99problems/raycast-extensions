@@ -18,6 +18,9 @@ just the small simple things, which `make my life easier`.
 A short and simple way to read https://lobste.rs home page posts,
 can be found in [Store](https://www.raycast.com/dev99problems/lobsters) 
 
+https://user-images.githubusercontent.com/6503508/147497396-8ecfd0d8-06ea-4f59-b47e-4dd8ebed3fad.mov
 
 ## Related Links
 The official docs for developer's program of **raycast** is [here](https://developers.raycast.com/)
+
+
