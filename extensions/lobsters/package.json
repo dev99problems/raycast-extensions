@@ -1,17 +1,18 @@
 {
-  "name": "lobste.rs",
-  "version": "1.0.0",
-  "title": "lobste.rs Homepage",
+  "$schema": "https://www.raycast.com/schemas/extension.json",
+  "name": "lobsters",
+  "version": "1.0.2",
+  "title": "Lobste.rs Homepage",
   "description": "Read the latest stories of lobste.rs",
   "icon": "lobster.png",
-  "author": "Eugene Chulkov (dev99problems)",
+  "author": "dev99problems",
   "license": "MIT",
   "commands": [
     {
       "name": "index",
-      "title": "lobste.rs",
-      "subtitle": "homepage",
-      "description": "Media",
+      "title": "Lobste.rs",
+      "subtitle": "Homepage Posts",
+      "description": "Show the Homepage Posts",
       "mode": "view"
     }
   ],
